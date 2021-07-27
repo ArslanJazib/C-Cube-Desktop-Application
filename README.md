@@ -1,0 +1,2 @@
+# C-Cube-Desktop-Application
+C-Cube (C3) is Chess Challenge Consortium where players reserve their tables for chess games with opponents or without opponents. In case of a player arrives without opponent, the manager on reception desk helps him to find the opponent. Game is played and results of the game is stored by the manager along with the information of players, table id and date-time. There are total nine tables available at a time. In case all tables are busy, the player must wait till the result of ongoing game is concluded
